@@ -24,6 +24,6 @@ Take part in using the product application for business or pleasure.
 Aquire desire location compare condinates and status to correlating regions. 
 
 ## Questions
-If ypu have any questions, please reach out via email:kwamecraven@gmail.com
+Concerns or questions, please reach out via email:kwamecraven@gmail.com
 You can also get at me on GitHub: [undefined](http://github.com/undefined)
     
